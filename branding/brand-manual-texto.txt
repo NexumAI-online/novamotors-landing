@@ -1,0 +1,380 @@
+B R A N D I D E N T I T Y M A N U A L
+E D I C I Ó N 0 1 · 2 0 2 6 · M A D R I D / D U B A I
+BRAND IDENTITY
+SYSTEM
+Private import, sourcing and delivery of luxury and high-performance automobiles.
+Madrid, Spain  ·  Dubai, United Arab Emirates
+D O C U M E N T O I N T E R N O · N O D I S T R I B U I R S I N A U T O R I Z A C I Ó N
+C O N T E N I D O
+0 1
+Sistema de marca
+0 1 . 2
+Sistema bilingüe · ة ي بالعر
+0 2
+Color
+0 3
+Tipografía
+0 4
+Materiales, texturas y fotografía
+0 5
+Aplicaciones físicas
+0 6
+Aplicaciones digitales
+0 7
+Reglas de uso
+El logo es un activo cerrado. Todo el sistema se construye alrededor de él
+sin redibujarlo ni alterarlo.
+0 1
+SISTEMA DE MARCA
+N O V A M O T O R S E X P O R T · M A N U A L D E M A R C A
+L O G O P R I N C I P A L · V E R S I Ó N A P I L A D A
+Versión maestra. Monograma sobre wordmark, con el filete y el descriptor EXPORT incluidos.
+Se usa siempre que haya espacio vertical: portadas, cartelería, carpeta de entrega.
+V E R S I Ó N H O R I Z O N T A L
+Recomposición de las partes del propio logo: monograma, filete separador y
+wordmark en una línea. Para firmas de correo, membrete, web y anchos
+reducidos.
+I S O T I P O · V E R S I Ó N R E D U C I D A
+El isotipo NM es un recorte exacto del logo, sin formas nuevas.
+Usos chicos: avatar, favicon, portaplacas, llavero, sello de lacre.
+M O N O C R O M Á T I C A E N B L A N C O
+Plata plana, sin degradado metálico. Obligatoria en grabado, bordado,
+serigrafía y cualquier soporte de una sola tinta.
+M O N O C R O M Á T I C A E N N E G R O
+Negro 100% para documentación, contratos, sellos y fax de aduana. Sin gris
+intermedio.
+C O M P O R T A M I E N T O S O B R E F O N D O C L A R O
+Sobre Bone #F3F2F2 el metal se invierte a grafito. Nunca dejar el logo plateado
+sobre fondo claro: pierde contraste.
+0 1 . 2
+SISTEMA BILINGÜE · EMIRATOS
+L A T I N   /   ة ي بالعر
+W O R D M A R K B I L I N G Ü E · L O C K U P M A E S T R O
+زمو ت ور ن و ف ا
+El wordmark latino y el árabe comparten el mismo eje óptico, la misma altura de x aparente y el mismo filete. El
+monograma nunca se duplica: una sola marca, dos lecturas. En piezas RTL el bloque completo se refleja —
+monograma a la derecha— pero el logo en sí jamás se espeja.
+V A R I A N T E S R E G I O N A L E S
+تإكس ب ور زمو ت ور ن و ف ا
+Versión árabe completa, con descriptor. Uso en Dubái: cartelería, credenciales y
+documentación local.
+D E S C R I P T O R · D O S I D I O M A S
+E X P O R T
+تإكس ب ور
+Tracking abierto en latín (0.42 em) y espaciado equivalente en árabe para igualar la textura de
+gris.
+T I P O G R A F Í A Á R A B E
+Noto Kufi Arabic en pesos 300–500. Es la única familia árabe autorizada: geométrica, de asta
+plana, alineada con Archivo. Nada de caligrafía Naskh ni Thuluth.
+0 2
+COLOR
+7 C O L O R E S · 1 A C E N T O
+OBSIDIAN
+#0A0A0A
+Fondo primario. Todo el sistema
+nace en negro.
+GRAPHITE
+#1C1C1E
+Superficie: tarjetas, módulos,
+fichas técnicas.
+BLACK LEATHER
+#14110F
+Cuero negro. Superficie táctil:
+carpeta, llavero, interiores.
+POLISHED SILVER
+#C9CDD2
+Texto primario y logo. La plata del
+propio activo.
+CHROME
+#7E858C
+Texto secundario, etiquetas,
+filetes de 1 px.
+LEATHER
+#A9825B
+Acento único. Numeración, dato
+clave, un solo elemento por pieza.
+BONE
+#F3F2F2
+Fondo claro de impresión:
+membrete, contratos, sobre.
+P R O P O R C I Ó N D E U S O
+OBSIDIAN 55%
+GRAPHITE 18%
+BLACK LEATHER 8%
+SILVER 9%
+CHROME 6%
+LEATHER 3%
+BONE 1%
+R E G L A S
+Un solo acento por pieza y nunca en más del 3% de la superficie. El cuero (#A9825B) no se
+usa para texto corrido: solo numeración, filete o dato único. Prohibido el rojo, los degradados
+saturados y cualquier segundo acento.
+0 3
+TIPOGRAFÍA
+A R C H I V O · A R C H I V O N A R R O W
+F A M I L I A P R I M A R I A
+Archivo
+Grotesca de asta plana y ancho uniforme. Pesos
+autorizados: 200 / 300 / 400 / 500. Display y título
+siempre en 200–300 con tracking abierto.
+AaBbCc 0123456789
+F A M I L I A S E C U N D A R I A
+Archivo Narrow
+Solo dato técnico: cifras, specs, referencias, tablas.
+Condensada, tabular, siempre en versalitas con
+tracking 0.14 em.
+0123456789 · KM/H · CV
+C O M P A Ñ E R A Á R A B E
+زمو ت ور ن و ف ا
+Noto Kufi Arabic. No cuenta como tercera familia:
+es el equivalente de Archivo en escritura árabe.
+D I S P L A Y
+ARCHIVO 200
+88 / 88 PX
+TRACKING .10 EM NOVA MOTORS
+T Í T U L O
+ARCHIVO 300
+44 / 52 PX
+TRACKING .04 EM
+Private Acquisition & Import
+S U B T Í T U L O
+ARCHIVO 500
+20 / 28 PX
+TRACKING .22 EM
+S O U R C I N G · I M P O R T · D E L I V E R Y
+C U E R P O
+ARCHIVO 400
+17 / 29 PX
+MEDIDA 62 CAR.
+We locate the specific car, handle the import, clear the documentation and coordinate
+delivery — in Spain, in the Emirates, or wherever the collection is kept. One client, one
+file, one point of contact.
+D A T O T É C N I C O
+ARCHIVO NARROW 500
+14 / 22 PX
+TRACKING .14 EM
+0–100 KM/H 2.8 S · 830 CV · 1.470 KG · REF. NMP-0421
+€ 385.000 · AED 1.520.000 · ENTREGA 6–8 SEMANAS
+0 4
+MATERIALES, TEXTURAS Y FOTOGRAFÍA
+A C A B A D O S · D I R E C C I Ó N D E I M A G E N
+METAL PULIDO
+Reflejo lineal, nunca espejo total. Troquel y canto
+de tarjeta.
+FIBRA DE CARBONO
+Trama a 45°, mate. Solo como textura de fondo,
+jamás bajo tipografía.
+CUERO NEGRO
+Grano fino, costura al tono. Carpeta de entrega,
+llavero, credencial.
+CUERO · ACENTO
+Único color cálido del sistema. Forro interior, canto,
+detalle de costura.
+VIDRIO AHUMADO
+Translúcido con un solo brillo de canto. Rotulación
+de showroom y vitrina.
+P L A N O D E P R O D U C T O
+3/4 frontal, cámara a la altura del faro. Auto estático, ruedas rectas,
+fondo limpio.
+D E T A L L E
+Macro de costura, llanta, escape o tapa de motor. Un solo material
+por toma.
+A M B I E N T E
+Entrega o showroom vacío. Figura humana de espaldas o fuera de
+foco, nunca posando.
+D I R E C C I Ó N F O T O G R Á F I C A
+LU Z
+Una fuente grande y suave a 45°, más un reflejo lineal
+largo sobre la carrocería. Sombra dura prohibida.
+S AT U R AC I Ó N
+Blanco y negro o desaturado al 15% máximo. El color
+del auto no manda la pieza; lo hace el contraste.
+E N C UA D R E S
+Simétrico o a tercios estrictos, horizonte nivelado, aire
+generoso arriba. Focal 50–135 mm, nada de gran
+angular deformante.
+T I P O S D E P L A N O
+Secuencia fija por vehículo: general, 3/4, perfil, tres
+detalles, interior, entrega. Siete tomas, mismo orden
+siempre.
+0 5 . 1
+APLICACIONES FÍSICAS · PAPELERÍA
+T A R J E T A · M E M B R E T E · S O B R E · C R E D E N C I A L
+T A R J E T A P E R S O N A L · 8 5 × 5 5 M M
+M A D R I D · D U B A I
+ALEJANDRO VIDAL
+A C Q U I S I T I O N D I R E C T O R
++34 600 000 000 · +971 50 000 0000
+A.VIDAL@NOVAMOTORSEXPORT.COM
+NOVAMOTORSEXPORT.COM
+Cartón 600 g, negro en masa, canto plateado. Cara A: solo marca. Cara B: cuero negro grabado
+en seco y datos en Archivo Narrow.
+H O J A M E M B R E T A D A · A 4
+M A D R I D
+D U B A I
+NOVAMOTORSEXPORT.COM
+PÁG. 01
+Papel Bone #F3F2F2, 120 g. Logo en versión horizontal invertida, filete de
+2 pt, caja de texto a la izquierda con medida de 62 caracteres.
+S O B R E · D L   /   C R E D E N C I A L D E L E Q U I P O
+A. VIDAL
+A C Q U I S I T I O N · I D 0 0 4
+Credencial vertical 54 × 86 mm en grafito,
+retrato en blanco y negro, isotipo arriba a la
+izquierda. Cordón textil negro, sin logo
+repetido.
+Sobre negro con isotipo abajo a la izquierda y remitente en Archivo Narrow
+arriba a la derecha. Interior forrado en cuero #A9825B.
+N O VA M O TO R S E X P O RT S . L .
+C / S E R R A N O 0 0 · 2 8 0 0 1 M A D R I D
+0 5 . 2
+APLICACIONES FÍSICAS · ENTREGA Y ENTORNO
+C A R P E T A · P O R T A P L A C A S · L L A V E R O · S H O W R O O M · C A R R O C E R Í A
+C A R P E T A D E E N T R E G A
+V E H I C L E D E L I V E R Y F I L E
+R E F. N M P - 0 4 2 1
+Cuero negro grano fino, A4+, cierre con solapa imantada. Logo grabado en
+seco, sin tinta. Interior: bolsillo para documentación de importación y dos
+llaves.
+P O R T A P L A C A S   /   L L A V E R O D E E N T R E G A
+M A D R I D · D U B A I
+0 4 2 1 N M P
+Llavero de cuero negro 55 × 55 mm, costura al tono, isotipo
+troquelado en plata mate y anilla de acero cepillado.
+Portaplacas en aluminio anodizado negro: wordmark horizontal arriba a la
+izquierda, ciudades a la derecha. Nunca ambos logos en el mismo borde.
+C A R T E L E R Í A D E S H O W R O O M
+تإكس ب ور زمو ت ور نو ف ا
+P R I V A T E S H O W R O O M · B Y A P P O I N T M E N T
+ق بمس بموعد · خ اص 
+ضمعر
+Letra corte de acero 6 mm sobre panel negro mate, separada 25 mm del muro, con luz
+rasante desde arriba. Bilingüe en todas las sedes.
+R E G L A D E C A R R O C E R Í A
+Vinilo plata mate, una sola aplicación por
+lateral, sobre el tercio inferior de la puerta
+trasera. Wordmark de 60 mm como máximo.
+Nada de rotulación integral ni franjas.
+En vehículos de cliente es opcional y siempre
+removible.
+N O V A M O T O R S E X P O R T . C O M
+B R A N D I N G S O B R E C A R R O C E R Í A
+0 6 . 1
+APLICACIONES DIGITALES · WEB
+H E R O · F I C H A T É C N I C A
+H E R O D E L A W E B · 1 4 4 0 P X
+I N V E N T O R Y
+S O U R C I N G
+I M P O R T
+C O N T A C T
+A R
+Fotografía desaturada al 0%, oscurecida al 72% y velada hacia la izquierda para sostener la tipografía. Botón primario en plata sobre negro, etiqueta alineada a la
+izquierda. Selector AR siempre visible en la barra.
+F I C H A T É C N I C A D E V E H Í C U L O
+R E F . N M P - 0 4 2 1 · 2 0 2 5
+V12 GRAND TOURER
+P O T E N C I A
+8 3 0 C V
+0 – 1 0 0 K M / H
+2 . 8 S
+K I L Ó M E T R O S
+1 . 2 4 0 K M
+E X T E R I O R / I N T E R I O R
+N E R O / C U O I O
+U B I C A C I Ó N
+D U B A I · D X B
+P R E C I O
+€ 385.000
+A E D 1 . 5 2 0 . 0 0 0
+C O N S U LTA R
+→
+Datos siempre en Archivo Narrow tabular, etiqueta a la izquierda y valor a la derecha, separados por
+filete de 1 px. El acento aparece una sola vez: en el estado del vehículo.
+P R I V A T E A C Q U I S I T I O N
+SOURCING THE
+UNOBTAINABLE
+We locate, import and deliver the exact car. Spain and the United
+Arab Emirates.
+R E Q U E S T A C A R
+→
+I N V E N T O R Y
+E N T R Á N S I T O
+0 6 . 2
+APLICACIONES DIGITALES · SOCIAL Y DOCUMENTOS
+P O S T · H I S T O R I A · P O R T A D A · F I R M A · P R O P U E S T A
+P O S T D E I N S T A G R A M · 1 0 8 0 ²
+Isotipo arriba a la izquierda al 6.5% del lado. Bloque de texto inferior izquierdo, dos líneas
+máximo. Sin marcos, sin sellos, sin texto sobre el auto.
+H I S T O R I A · P R E C I O Y S P E C S
+Mitad superior imagen, mitad inferior datos sobre negro. Precio en
+Archivo Narrow, un solo CTA en acento.
+P L A N T I L L A D E P R O P U E S T A · A 4
+ACQUISITION
+PROPOSAL
+P R E PA R A D O PA R A
+S R . A . A L M A N S O U R I
+R E F. N M P - 0 4 2 1 · 0 9 . 2 0 2 6
+C O N F I D E N C I A L · N O VA M O T O R S E X P O R T S . L .
+Portada negra con logo apilado arriba a la
+izquierda y título en Display. Interior sobre Bone:
+una sección por página, filete de 2 pt bajo cada
+título.
+0 1 V E H Í C U L O · 0 2 P R O C E D E N C I A
+0 3 I M P O R TA C I Ó N · 0 4 C O S T E S
+0 5 P L A Z O S · 0 6 E N T R E G A
+Numeración de secciones en acento, siempre a dos dígitos.
+P O R T A D A D E P E R F I L · 1 6 0 0 × 4 0 0
+Zona segura central de 1200 px: sin texto en los 200 px de cada extremo.
+F I R M A D E C O R R E O
+ALEJANDRO VIDAL
+A C Q U I S I T I O N D I R E C T O R
++34 600 000 000 · +971 50 000 0000
+NOVAMOTORSEXPORT.COM
+Logo horizontal en grafito a 104 px, filete de 1 px y datos en Archivo Narrow. Sin iconos de redes.
+V12 GRAND TOURER
+8 3 0 C V · 2 . 8 S · 2 0 2 5
+R E F. 0 4 2 1
+V12 GRAND
+TOURER
+8 3 0 C V · 2 . 8 S
+1 . 2 4 0 K M · D U B A I
+€ 385.000
+D E S L I Z Á P A R A L A F I C H A
+N O V A M O T O R S E X P O R T
+P R I V A T E I M P O R T · M A D R I D · D U B A I
+0 7
+REGLAS DE USO
+R E S P E T O · M Í N I M O S · F O N D O S · I N C O R R E C T O S
+Á R E A D E R E S P E T O
+X = la altura del monograma NM. Ningún elemento —texto, foto, filete, borde de pieza—
+entra en esa franja por los cuatro lados. En composiciones al límite del formato, X se mide
+desde el corte.
+T A M A Ñ O M Í N I M O
+APILADA
+160 PX / 40 MM
+HORIZONTAL
+120 PX / 30 MM
+ISOTIPO
+32 PX / 8 MM
+Por debajo del mínimo de la apilada, el descriptor EXPORT deja de leerse:
+usar horizontal o isotipo.
+F O N D O S P E R M I T I D O S
+Obsidian, Graphite, Cuero negro y Bone. Sobre fotografía: solo si la zona
+tiene menos del 25% de luminancia; si no, plancha negra detrás del logo.
+U S O S I N C O R R E C T O S
+NO
+D E F O R M A R
+No estirar, comprimir ni cambiar la proporción.
+Escalado siempre uniforme.
+NO
+R E C O L O R I Z A R
+El logo es plata, blanco o negro. Ni dorado, ni
+acento, ni degradados de color.
+NO
+F O N D O O C U PA D O
+Nunca sobre fondo medio, textura activa o foto
+clara sin plancha detrás.
+X
+X
+X
+X
