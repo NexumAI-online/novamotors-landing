@@ -104,22 +104,26 @@ La página incluye: hero, proceso/sourcing, **inventario "Importaciones reciente
 
 ## 6. Despliegue (Vercel)
 
-Es un **deploy estático directo, sin build** (no auto-despliega desde Git; se sube manualmente con la CLI).
+**Auto-deploy activado (Git → Vercel).** El repo de GitHub está conectado al proyecto de Vercel, así que **no hace falta usar la CLI de Vercel para publicar**:
+
+- Cada **push a la rama `main`** → deploy automático a **producción** (https://novamotors-landing.vercel.app).
+- Cada push a otra rama o Pull Request → deploy de **preview** con su propia URL (útil para revisar antes de mergear).
+
+O sea: el desarrollador solo trabaja con Git. `git push` y listo.
 
 ```bash
-# desde la raíz del proyecto
-vercel deploy --prod --yes
+git add -A
+git commit -m "mi cambio"
+git push          # → Vercel publica solo en ~30-60s
 ```
 
-Datos del proyecto (en `.vercel/project.json`):
-- Proyecto: `novamotors-landing`
-- Org/Team: `team_Q0NPE5DF9CgxNE8qdbAIOjEg` (nexumai-onlines-projects)
+Verificar tras el push (evitar cachés): `curl -I https://novamotors-landing.vercel.app` → debe dar `200`.
 
-**Para que el nuevo dev pueda desplegar necesita, o bien:**
-- que se le dé acceso a ese proyecto/equipo de Vercel (recomendado), **o**
-- crear su propio proyecto Vercel y hacer `vercel link` a él (borrando `.vercel/` para re-vincular).
-
-Verificar tras desplegar (evitar cachés): `curl -I https://novamotors-landing.vercel.app` → debe dar `200`.
+**Deploy manual (opcional, solo si tenés acceso al proyecto Vercel):**
+```bash
+vercel deploy --prod --yes
+```
+Datos del proyecto (en `.vercel/project.json`): proyecto `novamotors-landing`, team `nexumai-onlines-projects`.
 
 ### Dominio propio
 Aún se sirve en `novamotors-landing.vercel.app`. Falta (opcional) conectar el dominio definitivo desde el panel de Vercel → Settings → Domains.
